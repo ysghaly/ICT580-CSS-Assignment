@@ -134,6 +134,17 @@ the transition from desktop to the tablet version occurs at 700px
 
 When you have finished, you must **commit and push** to GitHub. **If you have trouble doing this,** a likely reason is that you did not **clone** correctly at the beginning. If you cloned from *my* GitHub.com repo and not *your own,* you'll need to clone all over again. Before doing so, copy your two CSS files into a safe other folder (OUTSIDE your repo) beforehand so you don't lose them.
 
+### Why gh-pages are cool
+
+There is a bonus to your new branch. By naming it *gh-pages* you are taking advantage of a GitHub feature that allows us to publish live Web pages. After you commit and push, you can see your handiwork here:
+
+http://[ your username ].github.io/ICT580-CSS-Assignment/
+
+**TIP:** You should open this URLs after you commit and sync to make sure your page looks correct. This is how your assignment will be graded &mdash; so it's smart to make sure those two pages exist.
+
+Here is a *gh-pages* page, for example, that shows a working tip calculator: https://macloo.github.io/js-tipper/
+
+[Learn more about a gh-pages branch.](https://www.npmjs.com/package/gh-pages)
 
 ### Using Git
 
