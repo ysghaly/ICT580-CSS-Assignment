@@ -75,9 +75,27 @@ a violation of the university's honor code. Asking for a solution in any online 
 This is what the website should look like when you first start it (have not made any changes).  If you would 
 like to keep a version of the original code, copy *main.css* before modifying it.
 
-![Image of the original version](https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/original_version.png)
-<img src="https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/original_version.png" weight="150px;">
+<img alt="Image of Original Version"
+     src="https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/original_version.png" height="150px;">
 
 ## Tablet Version
 
+This version has everything centered down the middle and will adjust as the screen size
+changes. Snapshots taken from a different version from top to bottom.
+
+<img alt="Image of the Header (top) of First Version"
+    src="https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/version1_top.png" height="150px;">
+<img alt="Image of the First Version at First the Transition"
+     src="https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/version1_transition.png" height="150px;">
+<img alt="Image of the First Version at the Second Transition"
+     src="https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/version1_transition2.png" height="150px;">
+
 ## Desktop Version
+
+This version looks more like paper, with text wrapped around the image.  It is meant for
+viewing on a desktop/laptop computer.
+
+<img alt="Image of the Header (top) of Second Version"
+    src="https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/version2_top.png" height="150px;">
+<img alt="Image of the Second Version at First the Transition"
+     src="https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/version2_transition.png" height="150px;">
