@@ -13,8 +13,6 @@ The Rubric [rubric](assignment_info/rubric.md) for the assignment is in the repo
 
 1. **Fork** this repo, ICT580-CSS-Assignment (make sure you are logged into GitHub), select the **Create a new fork** from
 the **Fork** drop-down menu at the top right.
-
-([Help on Forking](https://github.com/macloo/github-howto-and-github-desktop/tree/master/forking_and_cloning)) 
  
 2. **Open in GitPod** 
 
