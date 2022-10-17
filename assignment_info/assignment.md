@@ -1,4 +1,4 @@
-# ICT 580 - IPP  CSS Assignment 2 (CSS)
+# ICT 580 - IPP  CSS Assignment 1 (CSS)
 
 ## Learning Objectives
 
