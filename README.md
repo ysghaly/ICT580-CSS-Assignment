@@ -2,10 +2,10 @@
 ## HTML/CSS (and JavaScript)
 
 # Assignment Instructions
-The [assignment](assignment.md) contains the detailed instructions on what is to be done.
+The [assignment](assignment_info/assignment.md) contains the detailed instructions on what is to be done.
 
 # Marking Scheme
-The Rubric [rubric](rubric.md) for the assignment is in the repository
+The Rubric [rubric](assignment_info/rubric.md) for the assignment is in the repository
 
 **DO NOT USE any CSS layout libraries. 
 
@@ -45,3 +45,4 @@ Build the application for the first time...
 ```
 $ npm run start
 ```
+
