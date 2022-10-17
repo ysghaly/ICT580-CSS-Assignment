@@ -27,7 +27,7 @@ OR
 
 The preferred was is to commit your changes to your GitHub account, see [instructions/git](instructions/git.md) 
 
-## Part 1 - Flex version
+## Part 1 - Tablet Version
 
 In this version flex is used to create a version that adapts to changes in the view, a version that 
 is appropriate for a tablet, and with a change in the header would also suite mobile devices.
@@ -81,7 +81,7 @@ the only variation would be for step 10 where colours may need to be adapted for
 **FINISH Part 1 before starting Part 2!** 
 
 
-## Part 2
+## Part 2 - Desktop Version
 
 A completely different page layout, a version more suitable for a desktop monitor.  Be 
 sure to save a copy before starting the second part and that part 1 is completed.
