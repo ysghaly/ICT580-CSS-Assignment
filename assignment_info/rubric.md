@@ -69,13 +69,13 @@ The code in your assignment is yours and yours only. Showing your code to any ot
 a violation of the university's honor code. Asking for a solution in any online forum is a violation of the university's honor code. Copying code from another student, past or present, is a violation of the university's honor code. Allowing anyone else to write code for you is a violation of the university's honor code. You must do your own work, or **risk a failing grade for the entire course.** Penalties for academic dishonesty are spelled out in the syllabus for this course.
 
 
-# EXAMPLE IMAGES
+# Example Images
 
 ## Original Version
 This is what the website should look like when you first start it (have not made any changes).  If you would 
 like to keep a version of the original code, copy *main.css* before modifying it.
 
-![alt text](assignment_info/img/originalversion.png)
+![Image of the original version](https://github.com/geeklady2/ICT580-CSS-Assignment/blob/main/assignment_info/img/original_version.png)
 
 ## Tablet Version
 
