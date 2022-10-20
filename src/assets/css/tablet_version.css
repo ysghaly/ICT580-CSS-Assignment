@@ -79,8 +79,27 @@ a:hover {
 
         header{
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
+            justify-content: space-between;
 
+        }
+        
+        header nav {
+            
+            float: right;
+        }
+
+        header ul {
+            display: flex;
+            list-style-type: none;
+        }
+        
+        header li {
+            padding: 1rem;
+        }
+
+        header a {
+            text-decoration: none;
         }
 
         footer{
